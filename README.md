@@ -1,6 +1,17 @@
 # Cartographie-Tunisie-Marriages-2021-R
 This project generates two kinds of maps representing graphically the marriages in 2021 in Tunisia .
-Representation Graphique
+Dependencies :
+
+library(maptools)
+library(sp)
+library(shapefiles)
+library(sf)
+library(terra)
+library(foreign)
+library(gpclib)
+library(rgeos)
+
+
 
 Les cartes générées par l'algorithme : 
 
