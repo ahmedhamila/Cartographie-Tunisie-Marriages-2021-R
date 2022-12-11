@@ -1,0 +1,264 @@
+del;del_nom;gou;gou_nom;reg;reg_nom;zon;zon_nom;cap_gou;Marriages2020;Marriages2021
+TS1110;Carthage;TS111;Tunis;TS11;Nord-est;TS1;Nord;1;392;422
+TS1111;La Medina;TS111;Tunis;TS11;Nord-est;TS1;Nord;0;265;265
+TS1112;Bab El Bhar;TS111;Tunis;TS11;Nord-est;TS1;Nord;0;284;384
+TS1113;Bab Souika;TS111;Tunis;TS11;Nord-est;TS1;Nord;0;273;273
+TS1114;El Omrane;TS111;Tunis;TS11;Nord-est;TS1;Nord;0;282;282
+TS1115;El Omrane Superieur;TS111;Tunis;TS11;Nord-est;TS1;Nord;0;251;351
+TS1116;Ettahrir;TS111;Tunis;TS11;Nord-est;TS1;Nord;0;280;280
+TS1117;El Menzah;TS111;Tunis;TS11;Nord-est;TS1;Nord;0;241;241
+TS1118;Cite El Khadhra;TS111;Tunis;TS11;Nord-est;TS1;Nord;0;282;282
+TS1119;Le Bardo;TS111;Tunis;TS11;Nord-est;TS1;Nord;0;233;233
+TS111A;Sijoumi;TS111;Tunis;TS11;Nord-est;TS1;Nord;0;284;284
+TS111B;Ezzouhour;TS111;Tunis;TS11;Nord-est;TS1;Nord;0;215;185
+TS111C;El Hrairia;TS111;Tunis;TS11;Nord-est;TS1;Nord;0;286;286
+TS111D;Sidi Hassine;TS111;Tunis;TS11;Nord-est;TS1;Nord;0;285;285
+TS111E;El Ouardia;TS111;Tunis;TS11;Nord-est;TS1;Nord;0;288;288
+TS111F;El Kabaria;TS111;Tunis;TS11;Nord-est;TS1;Nord;0;289;289
+TS111G;Sidi El Bechir;TS111;Tunis;TS11;Nord-est;TS1;Nord;0;287;387
+TS111H;Djebel Djelloud;TS111;Tunis;TS11;Nord-est;TS1;Nord;0;285;285
+TS111I;La Goulette;TS111;Tunis;TS11;Nord-est;TS1;Nord;0;283;283
+TS111J;Le Kram;TS111;Tunis;TS11;Nord-est;TS1;Nord;0;282;382
+TS111K;La Marsa;TS111;Tunis;TS11;Nord-est;TS1;Nord;0;285;285
+TS1120;Ariana Ville;TS112;Ariana;TS11;Nord-est;TS1;Nord;1;310;350
+TS1121;Soukra;TS112;Ariana;TS11;Nord-est;TS1;Nord;0;280;290
+TS1122;Raoued;TS112;Ariana;TS11;Nord-est;TS1;Nord;0;295;265
+TS1123;Kalaat El Andalous;TS112;Ariana;TS11;Nord-est;TS1;Nord;0;294;294
+TS1124;Sidi Thabet;TS112;Ariana;TS11;Nord-est;TS1;Nord;0;252;282
+TS1125;Cite Ettadhamen;TS112;Ariana;TS11;Nord-est;TS1;Nord;0;263;293
+TS1126;El Mnihla;TS112;Ariana;TS11;Nord-est;TS1;Nord;0;271;271
+TS1130;Ben Arous;TS113;Ben Arous;TS11;Nord-est;TS1;Nord;1;379;399
+TS1131;La Nouvelle Medina;TS113;Ben Arous;TS11;Nord-est;TS1;Nord;0;288;288
+TS1132;El Mourouj;TS113;Ben Arous;TS11;Nord-est;TS1;Nord;0;278;278
+TS1133;Hammam Lif;TS113;Ben Arous;TS11;Nord-est;TS1;Nord;0;267;267
+TS1134;Hammam Choott;TS113;Ben Arous;TS11;Nord-est;TS1;Nord;0;254;254
+TS1135;Bou Mhel El Bassatine;TS113;Ben Arous;TS11;Nord-est;TS1;Nord;0;240;270
+TS1136;Ezzahra;TS113;Ben Arous;TS11;Nord-est;TS1;Nord;0;243;243
+TS1137;Rades;TS113;Ben Arous;TS11;Nord-est;TS1;Nord;0;235;285
+TS1138;Megrine;TS113;Ben Arous;TS11;Nord-est;TS1;Nord;0;286;256
+TS1139;Mohamedia;TS113;Ben Arous;TS11;Nord-est;TS1;Nord;0;277;267
+TS113A;Fouchana;TS113;Ben Arous;TS11;Nord-est;TS1;Nord;0;268;278
+TS113B;Mornag;TS113;Ben Arous;TS11;Nord-est;TS1;Nord;0;259;259
+TS1140;Mannouba;TS114;Manubah;TS11;Nord-est;TS1;Nord;1;385;415
+TS1141;Douar Hicher;TS114;Manubah;TS11;Nord-est;TS1;Nord;0;315;385
+TS1142;Oued Ellil;TS114;Manubah;TS11;Nord-est;TS1;Nord;0;324;324
+TS1143;Mornaguia;TS114;Manubah;TS11;Nord-est;TS1;Nord;0;333;353
+TS1144;Borj Amri;TS114;Manubah;TS11;Nord-est;TS1;Nord;0;342;342
+TS1145;Djedeida;TS114;Manubah;TS11;Nord-est;TS1;Nord;0;351;301
+TS1146;Tebourba;TS114;Manubah;TS11;Nord-est;TS1;Nord;0;365;365
+TS1147;El Battane;TS114;Manubah;TS11;Nord-est;TS1;Nord;0;340;370
+TS1150;Nabeul;TS115;Nabeul;TS11;Nord-est;TS1;Nord;1;323;353
+TS1151;Dar Chaabane El Fehri;TS115;Nabeul;TS11;Nord-est;TS1;Nord;0;281;281
+TS1152;Beni khiar;TS115;Nabeul;TS11;Nord-est;TS1;Nord;0;276;276
+TS1153;Korba;TS115;Nabeul;TS11;Nord-est;TS1;Nord;0;262;262
+TS1154;Menzel Temime;TS115;Nabeul;TS11;Nord-est;TS1;Nord;0;253;253
+TS1155;El Mida;TS115;Nabeul;TS11;Nord-est;TS1;Nord;0;244;244
+TS1156;Kelibia;TS115;Nabeul;TS11;Nord-est;TS1;Nord;0;235;235
+TS1157;Hammam El Guezaz;TS115;Nabeul;TS11;Nord-est;TS1;Nord;0;226;226
+TS1158;El Haouaria;TS115;Nabeul;TS11;Nord-est;TS1;Nord;0;217;257
+TS1159;Takelsa;TS115;Nabeul;TS11;Nord-est;TS1;Nord;0;286;286
+TS115A;Soliman;TS115;Nabeul;TS11;Nord-est;TS1;Nord;0;266;266
+TS115B;Menzel Bouzelfa;TS115;Nabeul;TS11;Nord-est;TS1;Nord;0;296;296
+TS115C;Beni Khalled;TS115;Nabeul;TS11;Nord-est;TS1;Nord;0;276;279
+TS115D;Grombalia;TS115;Nabeul;TS11;Nord-est;TS1;Nord;0;256;256
+TS115E;Bou Argoub;TS115;Nabeul;TS11;Nord-est;TS1;Nord;0;296;296
+TS115F;Hammamet;TS115;Nabeul;TS11;Nord-est;TS1;Nord;0;226;256
+TS1160;Zaghouan;TS116;Zaghouan;TS11;Nord-est;TS1;Nord;1;222;252
+TS1161;Ez-Zeriba;TS116;Zaghouan;TS11;Nord-est;TS1;Nord;0;172;179
+TS1162;Bir Mchergua;TS116;Zaghouan;TS11;Nord-est;TS1;Nord;0;155;185
+TS1163;El Fahs;TS116;Zaghouan;TS11;Nord-est;TS1;Nord;0;162;167
+TS1164;En-Nadhour;TS116;Zaghouan;TS11;Nord-est;TS1;Nord;0;181;171
+TS1165;Saouaf;TS116;Zaghouan;TS11;Nord-est;TS1;Nord;0;122;121
+TS1170;Bizerte Nord;TS117;Bizerte;TS11;Nord-est;TS1;Nord;1;298;328
+TS1171;Zarzouna;TS117;Bizerte;TS11;Nord-est;TS1;Nord;0;228;218
+TS1172;Bizerte Sud;TS117;Bizerte;TS11;Nord-est;TS1;Nord;0;278;258
+TS1173;Sedjnane;TS117;Bizerte;TS11;Nord-est;TS1;Nord;0;275;265
+TS1174;Djoumine;TS117;Bizerte;TS11;Nord-est;TS1;Nord;0;263;243
+TS1175;Mateur;TS117;Bizerte;TS11;Nord-est;TS1;Nord;0;288;228
+TS1176;Ghezala;TS117;Bizerte;TS11;Nord-est;TS1;Nord;0;271;291
+TS1177;Menzel Bourguiba;TS117;Bizerte;TS11;Nord-est;TS1;Nord;0;258;298
+TS1178;Tinja;TS117;Bizerte;TS11;Nord-est;TS1;Nord;0;248;228
+TS1179;Utique;TS117;Bizerte;TS11;Nord-est;TS1;Nord;0;238;288
+TS117A;Ghar El Meleh;TS117;Bizerte;TS11;Nord-est;TS1;Nord;0;228;278
+TS117B;Menzel Djemil;TS117;Bizerte;TS11;Nord-est;TS1;Nord;0;298;218
+TS117C;El Alia;TS117;Bizerte;TS11;Nord-est;TS1;Nord;0;298;298
+TS117D;Ras Djebel;TS117;Bizerte;TS11;Nord-est;TS1;Nord;0;278;298
+TS1210;Beja Nord;TS121;Beja;TS12;Nord-ouest;TS1;Nord;1;222;242
+TS1211;Beja Sud;TS121;Beja;TS12;Nord-ouest;TS1;Nord;0;203;213
+TS1212;Amdoun;TS121;Beja;TS12;Nord-ouest;TS1;Nord;0;214;214
+TS1213;Nefza;TS121;Beja;TS12;Nord-ouest;TS1;Nord;0;225;215
+TS1214;Teboursouk;TS121;Beja;TS12;Nord-ouest;TS1;Nord;0;204;224
+TS1215;Tibar;TS121;Beja;TS12;Nord-ouest;TS1;Nord;0;203;203
+TS1216;Testour;TS121;Beja;TS12;Nord-ouest;TS1;Nord;0;212;215
+TS1217;Goubellat;TS121;Beja;TS12;Nord-ouest;TS1;Nord;0;221;224
+TS1218;Medjez El Bab;TS121;Beja;TS12;Nord-ouest;TS1;Nord;0;210;210
+TS1220;Jendouba;TS122;Jendouba;TS12;Nord-ouest;TS1;Nord;1;290;295
+TS1221;Jendouba Nord;TS122;Jendouba;TS12;Nord-ouest;TS1;Nord;0;262;260
+TS1222;Bou Salem;TS122;Jendouba;TS12;Nord-ouest;TS1;Nord;0;257;247
+TS1223;Tabarka;TS122;Jendouba;TS12;Nord-ouest;TS1;Nord;0;260;240
+TS1224;Ain Draham;TS122;Jendouba;TS12;Nord-ouest;TS1;Nord;0;266;296
+TS1225;Fernana;TS122;Jendouba;TS12;Nord-ouest;TS1;Nord;0;270;210
+TS1226;Ghardimaou;TS122;Jendouba;TS12;Nord-ouest;TS1;Nord;0;287;295
+TS1227;Oued Meliz;TS122;Jendouba;TS12;Nord-ouest;TS1;Nord;0;277;297
+TS1228;Balta - Bou Aouane;TS122;Jendouba;TS12;Nord-ouest;TS1;Nord;0;287;297
+TS1230;Kef Ouest;TS123;Le Kef;TS12;Nord-ouest;TS1;Nord;1;150;170
+TS1231;Kef Est;TS123;Le Kef;TS12;Nord-ouest;TS1;Nord;0;131;111
+TS1232;Nebeur;TS123;Le Kef;TS12;Nord-ouest;TS1;Nord;0;112;122
+TS1233;Sakiet Sidi Youssef;TS123;Le Kef;TS12;Nord-ouest;TS1;Nord;0;133;133
+TS1234;Tajerouine;TS123;Le Kef;TS12;Nord-ouest;TS1;Nord;0;124;124
+TS1235;Kalaat Snan;TS123;Le Kef;TS12;Nord-ouest;TS1;Nord;0;135;145
+TS1236;Kalaat Khasbah;TS123;Le Kef;TS12;Nord-ouest;TS1;Nord;0;134;134
+TS1237;Djerissa;TS123;Le Kef;TS12;Nord-ouest;TS1;Nord;0;133;153
+TS1238;El Ksour;TS123;Le Kef;TS12;Nord-ouest;TS1;Nord;0;132;172
+TS1239;Dahmani;TS123;Le Kef;TS12;Nord-ouest;TS1;Nord;0;121;101
+TS123A;Es-Sers;TS123;Le Kef;TS12;Nord-ouest;TS1;Nord;0;130;130
+TS1240;Siliana Nord;TS124;Siliana;TS12;Nord-ouest;TS1;Nord;1;85;101
+TS1241;Siliana Sud;TS124;Siliana;TS12;Nord-ouest;TS1;Nord;0;71;81
+TS1242;Bou Arada;TS124;Siliana;TS12;Nord-ouest;TS1;Nord;0;69;79
+TS1243;Gaafour;TS124;Siliana;TS12;Nord-ouest;TS1;Nord;0;79;59
+TS1244;El Krib;TS124;Siliana;TS12;Nord-ouest;TS1;Nord;0;49;89
+TS1245;Bourouis;TS124;Siliana;TS12;Nord-ouest;TS1;Nord;0;85;75
+TS1246;Makthar;TS124;Siliana;TS12;Nord-ouest;TS1;Nord;0;79;99
+TS1247;Er-Rouhia;TS124;Siliana;TS12;Nord-ouest;TS1;Nord;0;29;29
+TS1248;Kesra;TS124;Siliana;TS12;Nord-ouest;TS1;Nord;0;19;29
+TS1249;Bargou;TS124;Siliana;TS12;Nord-ouest;TS1;Nord;0;59;49
+TS124A;El Aroussa;TS124;Siliana;TS12;Nord-ouest;TS1;Nord;0;99;89
+TS2110;Sousse Medina;TS211;Sousse;TS21;Centre-est;TS2;Centre;1;358;358
+TS2111;Sousse Riadh;TS211;Sousse;TS21;Centre-est;TS2;Centre;0;302;352
+TS2112;Sousse Jawhara;TS211;Sousse;TS21;Centre-est;TS2;Centre;0;218;228
+TS2113;Sousse Sidi Abdelhamid;TS211;Sousse;TS21;Centre-est;TS2;Centre;0;283;203
+TS2114;Hammam Sousse;TS211;Sousse;TS21;Centre-est;TS2;Centre;0;308;398
+TS2115;Akouda;TS211;Sousse;TS21;Centre-est;TS2;Centre;0;275;285
+TS2116;Kalaa Kebira;TS211;Sousse;TS21;Centre-est;TS2;Centre;0;307;317
+TS2117;Sidi Bou Ali;TS211;Sousse;TS21;Centre-est;TS2;Centre;0;262;282
+TS2118;Hergla;TS211;Sousse;TS21;Centre-est;TS2;Centre;0;301;371
+TS2119;Enfidha;TS211;Sousse;TS21;Centre-est;TS2;Centre;0;258;248
+TS211A;Bouficha;TS211;Sousse;TS21;Centre-est;TS2;Centre;0;300;320
+TS211B;Kondar;TS211;Sousse;TS21;Centre-est;TS2;Centre;0;228;218
+TS211C;Sidi El Heni;TS211;Sousse;TS21;Centre-est;TS2;Centre;0;306;326
+TS211D;Msaken;TS211;Sousse;TS21;Centre-est;TS2;Centre;0;277;297
+TS211E;Kalaa Seghira;TS211;Sousse;TS21;Centre-est;TS2;Centre;0;308;308
+TS2120;Monastir;TS212;Monastir;TS21;Centre-est;TS2;Centre;1;314;334
+TS2121;Ouerdanine;TS212;Monastir;TS21;Centre-est;TS2;Centre;0;284;315
+TS2122;Sahline;TS212;Monastir;TS21;Centre-est;TS2;Centre;0;294;314
+TS2123;Zermadine;TS212;Monastir;TS21;Centre-est;TS2;Centre;0;271;313
+TS2124;Beni Hassen;TS212;Monastir;TS21;Centre-est;TS2;Centre;0;254;314
+TS2125;Jammel;TS212;Monastir;TS21;Centre-est;TS2;Centre;0;262;212
+TS2126;Bembla;TS212;Monastir;TS21;Centre-est;TS2;Centre;0;224;294
+TS2127;Moknine;TS212;Monastir;TS21;Centre-est;TS2;Centre;0;213;278
+TS2128;Bekalta;TS212;Monastir;TS21;Centre-est;TS2;Centre;0;194;284
+TS2129;Teboulba;TS212;Monastir;TS21;Centre-est;TS2;Centre;0;204;304
+TS212A;Ksar Helal;TS212;Monastir;TS21;Centre-est;TS2;Centre;0;224;204
+TS212B;Ksibet El Mediouni;TS212;Monastir;TS21;Centre-est;TS2;Centre;0;304;314
+TS212C;Sayada-Lamta Bou-Hjar;TS212;Monastir;TS21;Centre-est;TS2;Centre;0;304;314
+TS2130;Mahdia;TS213;Mahdia;TS21;Centre-est;TS2;Centre;1;288;308
+TS2131;Bou Merdes;TS213;Mahdia;TS21;Centre-est;TS2;Centre;0;268;288
+TS2132;Ouled Chamekh;TS213;Mahdia;TS21;Centre-est;TS2;Centre;0;258;288
+TS2133;Chorbane;TS213;Mahdia;TS21;Centre-est;TS2;Centre;0;248;288
+TS2134;Hebira;TS213;Mahdia;TS21;Centre-est;TS2;Centre;0;232;288
+TS2135;Essouassi;TS213;Mahdia;TS21;Centre-est;TS2;Centre;0;251;288
+TS2136;El Djem;TS213;Mahdia;TS21;Centre-est;TS2;Centre;0;238;288
+TS2137;Chebba;TS213;Mahdia;TS21;Centre-est;TS2;Centre;0;228;288
+TS2138;Melloulech;TS213;Mahdia;TS21;Centre-est;TS2;Centre;0;218;288
+TS2139;Sidi Alouane;TS213;Mahdia;TS21;Centre-est;TS2;Centre;0;208;288
+TS213A;Ksour Essef;TS213;Mahdia;TS21;Centre-est;TS2;Centre;0;278;288
+TS2140;Sfax Ville;TS214;Sfax;TS21;Centre-est;TS2;Centre;1;393;423
+TS2141;Sfax Ouest;TS214;Sfax;TS21;Centre-est;TS2;Centre;0;363;413
+TS2142;Sakiet Ezzit;TS214;Sfax;TS21;Centre-est;TS2;Centre;0;323;416
+TS2143;Sakiet Edda�er;TS214;Sfax;TS21;Centre-est;TS2;Centre;0;313;415
+TS2144;Sfax Sud;TS214;Sfax;TS21;Centre-est;TS2;Centre;0;323;414
+TS2145;Tina;TS214;Sfax;TS21;Centre-est;TS2;Centre;0;333;413
+TS2146;Agareb;TS214;Sfax;TS21;Centre-est;TS2;Centre;0;343;411
+TS2147;Djebeniana;TS214;Sfax;TS21;Centre-est;TS2;Centre;0;353;412
+TS2148;El Amra;TS214;Sfax;TS21;Centre-est;TS2;Centre;0;353;414
+TS2149;El Hencha;TS214;Sfax;TS21;Centre-est;TS2;Centre;0;363;413
+TS214A;Menzel Chaker;TS214;Sfax;TS21;Centre-est;TS2;Centre;0;303;415
+TS214B;Ghraiba;TS214;Sfax;TS21;Centre-est;TS2;Centre;0;323;418
+TS214C;Bir ali Ben Kelifa;TS214;Sfax;TS21;Centre-est;TS2;Centre;0;313;413
+TS214D;Skhira;TS214;Sfax;TS21;Centre-est;TS2;Centre;0;383;419
+TS214E;Mahres;TS214;Sfax;TS21;Centre-est;TS2;Centre;0;373;410
+TS214F;Kerkenah;TS214;Sfax;TS21;Centre-est;TS2;Centre;0;333;413
+TS2210;Kairouan Nord;TS221;Kairouan;TS22;Centre-ouest;TS2;Centre;1;346;376
+TS2211;Kairouan Sud;TS221;Kairouan;TS22;Centre-ouest;TS2;Centre;0;345;351
+TS2212;Echebika;TS221;Kairouan;TS22;Centre-ouest;TS2;Centre;0;346;356
+TS2213;Sbikha;TS221;Kairouan;TS22;Centre-ouest;TS2;Centre;0;341;352
+TS2214;EL Ouslatia;TS221;Kairouan;TS22;Centre-ouest;TS2;Centre;0;346;356
+TS2215;Haffouz;TS221;Kairouan;TS22;Centre-ouest;TS2;Centre;0;342;353
+TS2216;El Alaa;TS221;Kairouan;TS22;Centre-ouest;TS2;Centre;0;346;356
+TS2217;Hajeb el Ayoun;TS221;Kairouan;TS22;Centre-ouest;TS2;Centre;0;343;354
+TS2218;Nasrallah;TS221;Kairouan;TS22;Centre-ouest;TS2;Centre;0;346;356
+TS2219;Echrarda;TS221;Kairouan;TS22;Centre-ouest;TS2;Centre;0;344;355
+TS221A;Bouhajla;TS221;Kairouan;TS22;Centre-ouest;TS2;Centre;0;346;356
+TS2220;Kasserine Nord;TS222;Kasserine;TS22;Centre-ouest;TS2;Centre;1;234;274
+TS2221;Kasserine Sud;TS222;Kasserine;TS22;Centre-ouest;TS2;Centre;0;234;254
+TS2222;Ezzouhour;TS222;Kasserine;TS22;Centre-ouest;TS2;Centre;0;234;252
+TS2223;Hassi Ferid;TS222;Kasserine;TS22;Centre-ouest;TS2;Centre;0;234;251
+TS2224;Sbeitla;TS222;Kasserine;TS22;Centre-ouest;TS2;Centre;0;234;250
+TS2225;Sbiba;TS222;Kasserine;TS22;Centre-ouest;TS2;Centre;0;234;251
+TS2226;Djedeliane;TS222;Kasserine;TS22;Centre-ouest;TS2;Centre;0;234;252
+TS2227;El Ayoun;TS222;Kasserine;TS22;Centre-ouest;TS2;Centre;0;234;253
+TS2228;Thala;TS222;Kasserine;TS22;Centre-ouest;TS2;Centre;0;234;254
+TS2229;Hidra;TS222;Kasserine;TS22;Centre-ouest;TS2;Centre;0;240;255
+TS222A;Foussana;TS222;Kasserine;TS22;Centre-ouest;TS2;Centre;0;234;254
+TS222B;Feriana;TS222;Kasserine;TS22;Centre-ouest;TS2;Centre;0;234;254
+TS222C;Majel Bel Abbes;TS222;Kasserine;TS22;Centre-ouest;TS2;Centre;0;234;258
+TS2230;Sidi Bouzid Ouest;TS223;Sidi Bou Zid;TS22;Centre-ouest;TS2;Centre;1;274;294
+TS2231;Sidi Bouzid Est;TS223;Sidi Bou Zid;TS22;Centre-ouest;TS2;Centre;0;254;262
+TS2232;Jilma;TS223;Sidi Bou Zid;TS22;Centre-ouest;TS2;Centre;0;254;264
+TS2233;Cebalet Ouled Asker;TS223;Sidi Bou Zid;TS22;Centre-ouest;TS2;Centre;0;252;265
+TS2234;Bir El Hafey;TS223;Sidi Bou Zid;TS22;Centre-ouest;TS2;Centre;0;254;264
+TS2235;Sidi Ali Ben Ao�n;TS223;Sidi Bou Zid;TS22;Centre-ouest;TS2;Centre;0;250;267
+TS2236;Menzel Bouza�enne;TS223;Sidi Bou Zid;TS22;Centre-ouest;TS2;Centre;0;251;264
+TS2237;Meknassy;TS223;Sidi Bou Zid;TS22;Centre-ouest;TS2;Centre;0;253;268
+TS2238;Souk Jedid;TS223;Sidi Bou Zid;TS22;Centre-ouest;TS2;Centre;0;254;264
+TS2239;Mezzouna;TS223;Sidi Bou Zid;TS22;Centre-ouest;TS2;Centre;0;260;269
+TS223A;Regueb;TS223;Sidi Bou Zid;TS22;Centre-ouest;TS2;Centre;0;254;261
+TS223B;Ouled Haffouz;TS223;Sidi Bou Zid;TS22;Centre-ouest;TS2;Centre;0;254;262
+TS3110;Gabes Medina;TS311;Gabes;TS31;Sud-est;TS3;Sud;1;268;298
+TS3111;Gabes Ouest;TS311;Gabes;TS31;Sud-est;TS3;Sud;0;268;278
+TS3112;Gabes Sud;TS311;Gabes;TS31;Sud-est;TS3;Sud;0;268;278
+TS3113;Ghanouch;TS311;Gabes;TS31;Sud-est;TS3;Sud;0;268;272
+TS3114;El Metouia;TS311;Gabes;TS31;Sud-est;TS3;Sud;0;268;278
+TS3115;Menzel El Habib;TS311;Gabes;TS31;Sud-est;TS3;Sud;0;280;275
+TS3116;El Hamma;TS311;Gabes;TS31;Sud-est;TS3;Sud;0;268;278
+TS3117;Matmata;TS311;Gabes;TS31;Sud-est;TS3;Sud;0;268;279
+TS3118;Nouvelle Matmata;TS311;Gabes;TS31;Sud-est;TS3;Sud;0;268;279
+TS3119;Mareth;TS311;Gabes;TS31;Sud-est;TS3;Sud;0;268;279
+TS3120;Medenine Nord;TS312;Medenine;TS31;Sud-est;TS3;Sud;1;417;473
+TS3121;Medenine Sud;TS312;Medenine;TS31;Sud-est;TS3;Sud;0;417;453
+TS3122;Beni Khedech;TS312;Medenine;TS31;Sud-est;TS3;Sud;0;450;452
+TS3123;Ben Guerdane;TS312;Medenine;TS31;Sud-est;TS3;Sud;0;417;453
+TS3124;Zarzis;TS312;Medenine;TS31;Sud-est;TS3;Sud;0;417;453
+TS3125;Djerba Houmet Souk;TS312;Medenine;TS31;Sud-est;TS3;Sud;0;417;455
+TS3126;Djerba Midoun;TS312;Medenine;TS31;Sud-est;TS3;Sud;0;417;453
+TS3127;Djerba Ajim;TS312;Medenine;TS31;Sud-est;TS3;Sud;0;417;453
+TS3128;Sidi Makhloulf;TS312;Medenine;TS31;Sud-est;TS3;Sud;0;417;453
+TS3130;Tataouine Nord;TS313;Tataouine;TS31;Sud-est;TS3;Sud;1;204;250
+TS3131;Tataouine Sud;TS313;Tataouine;TS31;Sud-est;TS3;Sud;0;204;221
+TS3132;Smar;TS313;Tataouine;TS31;Sud-est;TS3;Sud;0;224;222
+TS3133;Bir Lahmar;TS313;Tataouine;TS31;Sud-est;TS3;Sud;0;204;224
+TS3134;Ghomrassen;TS313;Tataouine;TS31;Sud-est;TS3;Sud;0;204;220
+TS3135;Dhehiba;TS313;Tataouine;TS31;Sud-est;TS3;Sud;0;204;220
+TS3136;Remada;TS313;Tataouine;TS31;Sud-est;TS3;Sud;0;204;220
+TS3210;Gafsa Nord;TS321;Gafsa;TS32;Sud-ouest;TS3;Sud;1;228;300
+TS3211;Sidi A�ch;TS321;Gafsa;TS32;Sud-ouest;TS3;Sud;0;228;251
+TS3212;El Ksar;TS321;Gafsa;TS32;Sud-ouest;TS3;Sud;0;250;252
+TS3213;Gafsa Sud;TS321;Gafsa;TS32;Sud-ouest;TS3;Sud;0;228;253
+TS3214;Oum El Araies;TS321;Gafsa;TS32;Sud-ouest;TS3;Sud;0;228;254
+TS3215;Redeyef;TS321;Gafsa;TS32;Sud-ouest;TS3;Sud;0;228;250
+TS3216;Metlaoui;TS321;Gafsa;TS32;Sud-ouest;TS3;Sud;0;228;250
+TS3217;Mdhila;TS321;Gafsa;TS32;Sud-ouest;TS3;Sud;0;228;254
+TS3218;EL Guetar;TS321;Gafsa;TS32;Sud-ouest;TS3;Sud;0;228;250
+TS3219;Belkhir;TS321;Gafsa;TS32;Sud-ouest;TS3;Sud;0;228;250
+TS321A;Sned;TS321;Gafsa;TS32;Sud-ouest;TS3;Sud;0;228;250
+TS3220;Tozeur;TS322;Tozeur;TS32;Sud-ouest;TS3;Sud;1;143;200
+TS3221;Degach;TS322;Tozeur;TS32;Sud-ouest;TS3;Sud;0;143;160
+TS3222;Tameghza;TS322;Tozeur;TS32;Sud-ouest;TS3;Sud;0;143;160
+TS3223;Nefta;TS322;Tozeur;TS32;Sud-ouest;TS3;Sud;0;143;160
+TS3224;Hazoua;TS322;Tozeur;TS32;Sud-ouest;TS3;Sud;0;143;160
+TS3230;Kebili Sud;TS323;Kebili;TS32;Sud-ouest;TS3;Sud;1;190;222
+TS3231;Kebili Nord;TS323;Kebili;TS32;Sud-ouest;TS3;Sud;0;190;225
+TS3232;Souk El Ahed;TS323;Kebili;TS32;Sud-ouest;TS3;Sud;0;200;221
+TS3233;Douz Nord;TS323;Kebili;TS32;Sud-ouest;TS3;Sud;0;190;250
+TS3234;Douz Sud;TS323;Kebili;TS32;Sud-ouest;TS3;Sud;0;190;220
+TS3235;Faouar;TS323;Kebili;TS32;Sud-ouest;TS3;Sud;0;190;220
