@@ -3,13 +3,21 @@ This project generates two kinds of maps representing graphically the marriages 
 Dependencies :
 
 library(maptools)
+
 library(sp)
+
 library(shapefiles)
+
 library(sf)
+
 library(terra)
+
 library(foreign)
+
 library(gpclib)
+
 library(rgeos)
+
 
 
 
