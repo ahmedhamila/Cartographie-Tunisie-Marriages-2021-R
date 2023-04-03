@@ -24,6 +24,7 @@ y1 <- bbox(fdc)[2]
 x2 <- bbox(fdc)[3]
 y2 <- bbox(fdc)[4]
 
+print(x1)
 
 sfdc <- (x2 - x1) * (y2 - y1)
 
